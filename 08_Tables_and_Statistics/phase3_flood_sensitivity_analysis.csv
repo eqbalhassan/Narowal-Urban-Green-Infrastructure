@@ -1,0 +1,5 @@
+scheme,pearson_r_vs_primary,exact_class_agreement_pct,high_plus_veryhigh_km2_mc
+Primary_Renormalized,1.0,100.0,7.472
+Equal_Weights,0.9677,78.77,7.472
+Terrain_Dominant,0.9326,65.96,7.472
+Urban_Pluvial_Dominant,0.8742,56.0,7.472

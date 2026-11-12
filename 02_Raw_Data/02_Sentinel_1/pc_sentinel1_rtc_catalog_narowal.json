@@ -1,0 +1,1981 @@
+{
+  "2018_monsoon": [
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180929T005936_20180929T010001_023906_029C11_rtc",
+      "datetime": "2018-09-29T00:59:49.082471Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/29/IW/DV/S1A_IW_GRDH_1SDV_20180929T005936_20180929T010001_023906_029C11_61C8/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/29/IW/DV/S1A_IW_GRDH_1SDV_20180929T005936_20180929T010001_023906_029C11_61C8/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180921T130414_20180921T130439_023797_029898_rtc",
+      "datetime": "2018-09-21T13:04:26.523903Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/21/IW/DV/S1A_IW_GRDH_1SDV_20180921T130414_20180921T130439_023797_029898_3C84/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/21/IW/DV/S1A_IW_GRDH_1SDV_20180921T130414_20180921T130439_023797_029898_3C84/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180917T005936_20180917T010001_023731_029664_rtc",
+      "datetime": "2018-09-17T00:59:48.846559Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/17/IW/DV/S1A_IW_GRDH_1SDV_20180917T005936_20180917T010001_023731_029664_FE12/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/17/IW/DV/S1A_IW_GRDH_1SDV_20180917T005936_20180917T010001_023731_029664_FE12/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180909T130413_20180909T130438_023622_0292F7_rtc",
+      "datetime": "2018-09-09T13:04:26.206899Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/9/IW/DV/S1A_IW_GRDH_1SDV_20180909T130413_20180909T130438_023622_0292F7_9463/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/9/IW/DV/S1A_IW_GRDH_1SDV_20180909T130413_20180909T130438_023622_0292F7_9463/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180905T005936_20180905T010001_023556_0290C7_rtc",
+      "datetime": "2018-09-05T00:59:48.534936Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/5/IW/DV/S1A_IW_GRDH_1SDV_20180905T005936_20180905T010001_023556_0290C7_956B/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/9/5/IW/DV/S1A_IW_GRDH_1SDV_20180905T005936_20180905T010001_023556_0290C7_956B/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180828T130413_20180828T130438_023447_028D5D_rtc",
+      "datetime": "2018-08-28T13:04:25.688494Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/28/IW/DV/S1A_IW_GRDH_1SDV_20180828T130413_20180828T130438_023447_028D5D_A698/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/28/IW/DV/S1A_IW_GRDH_1SDV_20180828T130413_20180828T130438_023447_028D5D_A698/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180824T005935_20180824T010000_023381_028B35_rtc",
+      "datetime": "2018-08-24T00:59:47.752889Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/24/IW/DV/S1A_IW_GRDH_1SDV_20180824T005935_20180824T010000_023381_028B35_2B12/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/24/IW/DV/S1A_IW_GRDH_1SDV_20180824T005935_20180824T010000_023381_028B35_2B12/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180816T130412_20180816T130437_023272_0287BE_rtc",
+      "datetime": "2018-08-16T13:04:24.949371Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/16/IW/DV/S1A_IW_GRDH_1SDV_20180816T130412_20180816T130437_023272_0287BE_2F74/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/16/IW/DV/S1A_IW_GRDH_1SDV_20180816T130412_20180816T130437_023272_0287BE_2F74/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180812T005934_20180812T005959_023206_02858E_rtc",
+      "datetime": "2018-08-12T00:59:47.113896Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/12/IW/DV/S1A_IW_GRDH_1SDV_20180812T005934_20180812T005959_023206_02858E_0B9D/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/12/IW/DV/S1A_IW_GRDH_1SDV_20180812T005934_20180812T005959_023206_02858E_0B9D/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180804T130411_20180804T130436_023097_02821A_rtc",
+      "datetime": "2018-08-04T13:04:24.175695Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/4/IW/DV/S1A_IW_GRDH_1SDV_20180804T130411_20180804T130436_023097_02821A_99F3/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/8/4/IW/DV/S1A_IW_GRDH_1SDV_20180804T130411_20180804T130436_023097_02821A_99F3/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180723T130411_20180723T130436_022922_027CA4_rtc",
+      "datetime": "2018-07-23T13:04:23.587258Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/7/23/IW/DV/S1A_IW_GRDH_1SDV_20180723T130411_20180723T130436_022922_027CA4_E8D0/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/7/23/IW/DV/S1A_IW_GRDH_1SDV_20180723T130411_20180723T130436_022922_027CA4_E8D0/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180719T005933_20180719T005958_022856_027A79_rtc",
+      "datetime": "2018-07-19T00:59:45.779253Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/7/19/IW/DV/S1A_IW_GRDH_1SDV_20180719T005933_20180719T005958_022856_027A79_008E/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/7/19/IW/DV/S1A_IW_GRDH_1SDV_20180719T005933_20180719T005958_022856_027A79_008E/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180711T130410_20180711T130435_022747_027728_rtc",
+      "datetime": "2018-07-11T13:04:22.725321Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/7/11/IW/DV/S1A_IW_GRDH_1SDV_20180711T130410_20180711T130435_022747_027728_64D5/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/7/11/IW/DV/S1A_IW_GRDH_1SDV_20180711T130410_20180711T130435_022747_027728_64D5/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180707T005932_20180707T005957_022681_02751F_rtc",
+      "datetime": "2018-07-07T00:59:44.834270Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/7/7/IW/DV/S1A_IW_GRDH_1SDV_20180707T005932_20180707T005957_022681_02751F_889C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/7/7/IW/DV/S1A_IW_GRDH_1SDV_20180707T005932_20180707T005957_022681_02751F_889C/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180625T005931_20180625T005956_022506_027005_rtc",
+      "datetime": "2018-06-25T00:59:44.369012Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/6/25/IW/DV/S1A_IW_GRDH_1SDV_20180625T005931_20180625T005956_022506_027005_AF2D/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/6/25/IW/DV/S1A_IW_GRDH_1SDV_20180625T005931_20180625T005956_022506_027005_AF2D/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180617T130408_20180617T130433_022397_026CDE_rtc",
+      "datetime": "2018-06-17T13:04:21.486267Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/6/17/IW/DV/S1A_IW_GRDH_1SDV_20180617T130408_20180617T130433_022397_026CDE_03B9/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/6/17/IW/DV/S1A_IW_GRDH_1SDV_20180617T130408_20180617T130433_022397_026CDE_03B9/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180605T130408_20180605T130433_022222_02677A_rtc",
+      "datetime": "2018-06-05T13:04:20.610260Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/6/5/IW/DV/S1A_IW_GRDH_1SDV_20180605T130408_20180605T130433_022222_02677A_2FBE/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/6/5/IW/DV/S1A_IW_GRDH_1SDV_20180605T130408_20180605T130433_022222_02677A_2FBE/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20180601T005930_20180601T005955_022156_026564_rtc",
+      "datetime": "2018-06-01T00:59:42.726631Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/6/1/IW/DV/S1A_IW_GRDH_1SDV_20180601T005930_20180601T005955_022156_026564_166E/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2018/6/1/IW/DV/S1A_IW_GRDH_1SDV_20180601T005930_20180601T005955_022156_026564_166E/measurement/iw-vh.rtc.tiff"
+    }
+  ],
+  "2019_monsoon": [
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190928T130420_20190928T130445_029222_0351C1_rtc",
+      "datetime": "2019-09-28T13:04:33.160271Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/28/IW/DV/S1A_IW_GRDH_1SDV_20190928T130420_20190928T130445_029222_0351C1_73D3/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/28/IW/DV/S1A_IW_GRDH_1SDV_20190928T130420_20190928T130445_029222_0351C1_73D3/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190924T005942_20190924T010007_029156_034F70_rtc",
+      "datetime": "2019-09-24T00:59:55.401803Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/24/IW/DV/S1A_IW_GRDH_1SDV_20190924T005942_20190924T010007_029156_034F70_FC14/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/24/IW/DV/S1A_IW_GRDH_1SDV_20190924T005942_20190924T010007_029156_034F70_FC14/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190916T130420_20190916T130445_029047_034BCA_rtc",
+      "datetime": "2019-09-16T13:04:32.521868Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/16/IW/DV/S1A_IW_GRDH_1SDV_20190916T130420_20190916T130445_029047_034BCA_71C4/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/16/IW/DV/S1A_IW_GRDH_1SDV_20190916T130420_20190916T130445_029047_034BCA_71C4/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190912T005942_20190912T010007_028981_03497A_rtc",
+      "datetime": "2019-09-12T00:59:54.802604Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/12/IW/DV/S1A_IW_GRDH_1SDV_20190912T005942_20190912T010007_028981_03497A_AF26/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/12/IW/DV/S1A_IW_GRDH_1SDV_20190912T005942_20190912T010007_028981_03497A_AF26/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190904T130419_20190904T130444_028872_0345B3_rtc",
+      "datetime": "2019-09-04T13:04:32.099684Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/4/IW/DV/S1A_IW_GRDH_1SDV_20190904T130419_20190904T130444_028872_0345B3_1C44/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/9/4/IW/DV/S1A_IW_GRDH_1SDV_20190904T130419_20190904T130444_028872_0345B3_1C44/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190831T005941_20190831T010006_028806_034364_rtc",
+      "datetime": "2019-08-31T00:59:54.291238Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/8/31/IW/DV/S1A_IW_GRDH_1SDV_20190831T005941_20190831T010006_028806_034364_0AD0/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/8/31/IW/DV/S1A_IW_GRDH_1SDV_20190831T005941_20190831T010006_028806_034364_0AD0/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190823T130419_20190823T130444_028697_033F91_rtc",
+      "datetime": "2019-08-23T13:04:31.574542Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/8/23/IW/DV/S1A_IW_GRDH_1SDV_20190823T130419_20190823T130444_028697_033F91_7E2E/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/8/23/IW/DV/S1A_IW_GRDH_1SDV_20190823T130419_20190823T130444_028697_033F91_7E2E/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190811T130418_20190811T130443_028522_03398A_rtc",
+      "datetime": "2019-08-11T13:04:30.995232Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/8/11/IW/DV/S1A_IW_GRDH_1SDV_20190811T130418_20190811T130443_028522_03398A_18FC/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/8/11/IW/DV/S1A_IW_GRDH_1SDV_20190811T130418_20190811T130443_028522_03398A_18FC/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190730T130417_20190730T130442_028347_033403_rtc",
+      "datetime": "2019-07-30T13:04:29.980907Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/30/IW/DV/S1A_IW_GRDH_1SDV_20190730T130417_20190730T130442_028347_033403_3003/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/30/IW/DV/S1A_IW_GRDH_1SDV_20190730T130417_20190730T130442_028347_033403_3003/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190726T005939_20190726T010004_028281_0331E5_rtc",
+      "datetime": "2019-07-26T00:59:52.193067Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/26/IW/DV/S1A_IW_GRDH_1SDV_20190726T005939_20190726T010004_028281_0331E5_BB46/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/26/IW/DV/S1A_IW_GRDH_1SDV_20190726T005939_20190726T010004_028281_0331E5_BB46/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190718T130416_20190718T130441_028172_032EA6_rtc",
+      "datetime": "2019-07-18T13:04:29.330122Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/18/IW/DV/S1A_IW_GRDH_1SDV_20190718T130416_20190718T130441_028172_032EA6_53C4/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/18/IW/DV/S1A_IW_GRDH_1SDV_20190718T130416_20190718T130441_028172_032EA6_53C4/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190714T005938_20190714T010003_028106_032C97_rtc",
+      "datetime": "2019-07-14T00:59:51.425484Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/14/IW/DV/S1A_IW_GRDH_1SDV_20190714T005938_20190714T010003_028106_032C97_9532/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/14/IW/DV/S1A_IW_GRDH_1SDV_20190714T005938_20190714T010003_028106_032C97_9532/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190706T130416_20190706T130441_027997_032960_rtc",
+      "datetime": "2019-07-06T13:04:28.505184Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/6/IW/DV/S1A_IW_GRDH_1SDV_20190706T130416_20190706T130441_027997_032960_E64F/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/6/IW/DV/S1A_IW_GRDH_1SDV_20190706T130416_20190706T130441_027997_032960_E64F/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190702T005938_20190702T010003_027931_03274B_rtc",
+      "datetime": "2019-07-02T00:59:50.707110Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/2/IW/DV/S1A_IW_GRDH_1SDV_20190702T005938_20190702T010003_027931_03274B_3214/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/7/2/IW/DV/S1A_IW_GRDH_1SDV_20190702T005938_20190702T010003_027931_03274B_3214/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190624T130415_20190624T130440_027822_03240F_rtc",
+      "datetime": "2019-06-24T13:04:27.737692Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/6/24/IW/DV/S1A_IW_GRDH_1SDV_20190624T130415_20190624T130440_027822_03240F_210B/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/6/24/IW/DV/S1A_IW_GRDH_1SDV_20190624T130415_20190624T130440_027822_03240F_210B/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190612T130414_20190612T130439_027647_031EDB_rtc",
+      "datetime": "2019-06-12T13:04:26.826220Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/6/12/IW/DV/S1A_IW_GRDH_1SDV_20190612T130414_20190612T130439_027647_031EDB_7081/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/6/12/IW/DV/S1A_IW_GRDH_1SDV_20190612T130414_20190612T130439_027647_031EDB_7081/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20190608T005936_20190608T010001_027581_031CCA_rtc",
+      "datetime": "2019-06-08T00:59:49.190402Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/6/8/IW/DV/S1A_IW_GRDH_1SDV_20190608T005936_20190608T010001_027581_031CCA_312C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2019/6/8/IW/DV/S1A_IW_GRDH_1SDV_20190608T005936_20190608T010001_027581_031CCA_312C/measurement/iw-vh.rtc.tiff"
+    }
+  ],
+  "2020_monsoon": [
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200922T130426_20200922T130451_034472_0402D4_rtc",
+      "datetime": "2020-09-22T13:04:39.279066Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/9/22/IW/DV/S1A_IW_GRDH_1SDV_20200922T130426_20200922T130451_034472_0402D4_9C7F/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/9/22/IW/DV/S1A_IW_GRDH_1SDV_20200922T130426_20200922T130451_034472_0402D4_9C7F/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200918T005936_20200918T010001_034406_040065_rtc",
+      "datetime": "2020-09-18T00:59:48.765621Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/9/18/IW/DV/S1A_IW_GRDH_1SDV_20200918T005936_20200918T010001_034406_040065_CF4E/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/9/18/IW/DV/S1A_IW_GRDH_1SDV_20200918T005936_20200918T010001_034406_040065_CF4E/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200910T130426_20200910T130451_034297_03FC8E_rtc",
+      "datetime": "2020-09-10T13:04:38.898361Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/9/10/IW/DV/S1A_IW_GRDH_1SDV_20200910T130426_20200910T130451_034297_03FC8E_94DA/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/9/10/IW/DV/S1A_IW_GRDH_1SDV_20200910T130426_20200910T130451_034297_03FC8E_94DA/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200906T005935_20200906T010000_034231_03FA45_rtc",
+      "datetime": "2020-09-06T00:59:48.352582Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/9/6/IW/DV/S1A_IW_GRDH_1SDV_20200906T005935_20200906T010000_034231_03FA45_EFF9/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/9/6/IW/DV/S1A_IW_GRDH_1SDV_20200906T005935_20200906T010000_034231_03FA45_EFF9/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200829T130425_20200829T130450_034122_03F672_rtc",
+      "datetime": "2020-08-29T13:04:38.468836Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/29/IW/DV/S1A_IW_GRDH_1SDV_20200829T130425_20200829T130450_034122_03F672_50CD/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/29/IW/DV/S1A_IW_GRDH_1SDV_20200829T130425_20200829T130450_034122_03F672_50CD/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200825T005935_20200825T010000_034056_03F420_rtc",
+      "datetime": "2020-08-25T00:59:47.858505Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/25/IW/DV/S1A_IW_GRDH_1SDV_20200825T005935_20200825T010000_034056_03F420_4C42/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/25/IW/DV/S1A_IW_GRDH_1SDV_20200825T005935_20200825T010000_034056_03F420_4C42/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200817T130425_20200817T130450_033947_03F044_rtc",
+      "datetime": "2020-08-17T13:04:37.649522Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/17/IW/DV/S1A_IW_GRDH_1SDV_20200817T130425_20200817T130450_033947_03F044_4FA0/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/17/IW/DV/S1A_IW_GRDH_1SDV_20200817T130425_20200817T130450_033947_03F044_4FA0/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200813T005934_20200813T005959_033881_03EDEC_rtc",
+      "datetime": "2020-08-13T00:59:47.110958Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/13/IW/DV/S1A_IW_GRDH_1SDV_20200813T005934_20200813T005959_033881_03EDEC_EBC9/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/13/IW/DV/S1A_IW_GRDH_1SDV_20200813T005934_20200813T005959_033881_03EDEC_EBC9/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200805T130424_20200805T130449_033772_03EA2F_rtc",
+      "datetime": "2020-08-05T13:04:36.941476Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/5/IW/DV/S1A_IW_GRDH_1SDV_20200805T130424_20200805T130449_033772_03EA2F_1C0F/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/5/IW/DV/S1A_IW_GRDH_1SDV_20200805T130424_20200805T130449_033772_03EA2F_1C0F/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200801T005933_20200801T005958_033706_03E812_rtc",
+      "datetime": "2020-08-01T00:59:46.497447Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/1/IW/DV/S1A_IW_GRDH_1SDV_20200801T005933_20200801T005958_033706_03E812_0325/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/8/1/IW/DV/S1A_IW_GRDH_1SDV_20200801T005933_20200801T005958_033706_03E812_0325/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200724T130423_20200724T130448_033597_03E4CC_rtc",
+      "datetime": "2020-07-24T13:04:36.395201Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/7/24/IW/DV/S1A_IW_GRDH_1SDV_20200724T130423_20200724T130448_033597_03E4CC_6740/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/7/24/IW/DV/S1A_IW_GRDH_1SDV_20200724T130423_20200724T130448_033597_03E4CC_6740/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200720T005933_20200720T005958_033531_03E2AF_rtc",
+      "datetime": "2020-07-20T00:59:45.703793Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/7/20/IW/DV/S1A_IW_GRDH_1SDV_20200720T005933_20200720T005958_033531_03E2AF_8F01/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/7/20/IW/DV/S1A_IW_GRDH_1SDV_20200720T005933_20200720T005958_033531_03E2AF_8F01/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200712T130422_20200712T130447_033422_03DF6C_rtc",
+      "datetime": "2020-07-12T13:04:35.482460Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/7/12/IW/DV/S1A_IW_GRDH_1SDV_20200712T130422_20200712T130447_033422_03DF6C_236B/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/7/12/IW/DV/S1A_IW_GRDH_1SDV_20200712T130422_20200712T130447_033422_03DF6C_236B/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200708T005932_20200708T005957_033356_03DD58_rtc",
+      "datetime": "2020-07-08T00:59:44.883524Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/7/8/IW/DV/S1A_IW_GRDH_1SDV_20200708T005932_20200708T005957_033356_03DD58_C22F/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/7/8/IW/DV/S1A_IW_GRDH_1SDV_20200708T005932_20200708T005957_033356_03DD58_C22F/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200630T130422_20200630T130447_033247_03DA1C_rtc",
+      "datetime": "2020-06-30T13:04:34.721634Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/30/IW/DV/S1A_IW_GRDH_1SDV_20200630T130422_20200630T130447_033247_03DA1C_8F4D/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/30/IW/DV/S1A_IW_GRDH_1SDV_20200630T130422_20200630T130447_033247_03DA1C_8F4D/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200626T005931_20200626T005956_033181_03D806_rtc",
+      "datetime": "2020-06-26T00:59:44.256230Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/26/IW/DV/S1A_IW_GRDH_1SDV_20200626T005931_20200626T005956_033181_03D806_9339/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/26/IW/DV/S1A_IW_GRDH_1SDV_20200626T005931_20200626T005956_033181_03D806_9339/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200618T130421_20200618T130446_033072_03D4CA_rtc",
+      "datetime": "2020-06-18T13:04:34.193038Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/18/IW/DV/S1A_IW_GRDH_1SDV_20200618T130421_20200618T130446_033072_03D4CA_2225/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/18/IW/DV/S1A_IW_GRDH_1SDV_20200618T130421_20200618T130446_033072_03D4CA_2225/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200614T005931_20200614T005956_033006_03D2B4_rtc",
+      "datetime": "2020-06-14T00:59:43.626649Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/14/IW/DV/S1A_IW_GRDH_1SDV_20200614T005931_20200614T005956_033006_03D2B4_3C51/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/14/IW/DV/S1A_IW_GRDH_1SDV_20200614T005931_20200614T005956_033006_03D2B4_3C51/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200606T130420_20200606T130445_032897_03CF81_rtc",
+      "datetime": "2020-06-06T13:04:33.414054Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/6/IW/DV/S1A_IW_GRDH_1SDV_20200606T130420_20200606T130445_032897_03CF81_EE3B/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/6/IW/DV/S1A_IW_GRDH_1SDV_20200606T130420_20200606T130445_032897_03CF81_EE3B/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20200602T005930_20200602T005955_032831_03CD82_rtc",
+      "datetime": "2020-06-02T00:59:42.799957Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/2/IW/DV/S1A_IW_GRDH_1SDV_20200602T005930_20200602T005955_032831_03CD82_D9E9/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2020/6/2/IW/DV/S1A_IW_GRDH_1SDV_20200602T005930_20200602T005955_032831_03CD82_D9E9/measurement/iw-vh.rtc.tiff"
+    }
+  ],
+  "2022_monsoon": [
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220924T130452_20220924T130517_045147_05654E_rtc",
+      "datetime": "2022-09-24T13:05:05.189789Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/9/24/IW/DV/S1A_IW_GRDH_1SDV_20220924T130452_20220924T130517_045147_05654E_9087/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/9/24/IW/DV/S1A_IW_GRDH_1SDV_20220924T130452_20220924T130517_045147_05654E_9087/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220920T005943_20220920T010008_045081_05630D_rtc",
+      "datetime": "2022-09-20T00:59:55.703733Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/9/20/IW/DV/S1A_IW_GRDH_1SDV_20220920T005943_20220920T010008_045081_05630D_A830/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/9/20/IW/DV/S1A_IW_GRDH_1SDV_20220920T005943_20220920T010008_045081_05630D_A830/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220912T130453_20220912T130518_044972_055F65_rtc",
+      "datetime": "2022-09-12T13:05:05.637703Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/9/12/IW/DV/S1A_IW_GRDH_1SDV_20220912T130453_20220912T130518_044972_055F65_4339/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/9/12/IW/DV/S1A_IW_GRDH_1SDV_20220912T130453_20220912T130518_044972_055F65_4339/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220908T005943_20220908T010008_044906_055D24_rtc",
+      "datetime": "2022-09-08T00:59:56.164405Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/9/8/IW/DV/S1A_IW_GRDH_1SDV_20220908T005943_20220908T010008_044906_055D24_FE84/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/9/8/IW/DV/S1A_IW_GRDH_1SDV_20220908T005943_20220908T010008_044906_055D24_FE84/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220831T130452_20220831T130517_044797_05598D_rtc",
+      "datetime": "2022-08-31T13:05:04.858104Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/31/IW/DV/S1A_IW_GRDH_1SDV_20220831T130452_20220831T130517_044797_05598D_DD2A/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/31/IW/DV/S1A_IW_GRDH_1SDV_20220831T130452_20220831T130517_044797_05598D_DD2A/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220827T005942_20220827T010007_044731_055742_rtc",
+      "datetime": "2022-08-27T00:59:55.326285Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/27/IW/DV/S1A_IW_GRDH_1SDV_20220827T005942_20220827T010007_044731_055742_5C26/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/27/IW/DV/S1A_IW_GRDH_1SDV_20220827T005942_20220827T010007_044731_055742_5C26/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220819T130451_20220819T130516_044622_05539F_rtc",
+      "datetime": "2022-08-19T13:05:04.455891Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/19/IW/DV/S1A_IW_GRDH_1SDV_20220819T130451_20220819T130516_044622_05539F_830C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/19/IW/DV/S1A_IW_GRDH_1SDV_20220819T130451_20220819T130516_044622_05539F_830C/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220815T005942_20220815T010007_044556_055158_rtc",
+      "datetime": "2022-08-15T00:59:54.932526Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/15/IW/DV/S1A_IW_GRDH_1SDV_20220815T005942_20220815T010007_044556_055158_2610/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/15/IW/DV/S1A_IW_GRDH_1SDV_20220815T005942_20220815T010007_044556_055158_2610/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220807T130451_20220807T130516_044447_054DDA_rtc",
+      "datetime": "2022-08-07T13:05:03.817466Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/7/IW/DV/S1A_IW_GRDH_1SDV_20220807T130451_20220807T130516_044447_054DDA_EAD7/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/8/7/IW/DV/S1A_IW_GRDH_1SDV_20220807T130451_20220807T130516_044447_054DDA_EAD7/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220726T130450_20220726T130515_044272_0548BE_rtc",
+      "datetime": "2022-07-26T13:05:02.933039Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/7/26/IW/DV/S1A_IW_GRDH_1SDV_20220726T130450_20220726T130515_044272_0548BE_F1E2/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/7/26/IW/DV/S1A_IW_GRDH_1SDV_20220726T130450_20220726T130515_044272_0548BE_F1E2/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220722T005946_20220722T010011_044206_0546B7_rtc",
+      "datetime": "2022-07-22T00:59:58.724890Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/7/22/IW/DV/S1A_IW_GRDH_1SDV_20220722T005946_20220722T010011_044206_0546B7_7723/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/7/22/IW/DV/S1A_IW_GRDH_1SDV_20220722T005946_20220722T010011_044206_0546B7_7723/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220714T130449_20220714T130514_044097_054380_rtc",
+      "datetime": "2022-07-14T13:05:02.110941Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/7/14/IW/DV/S1A_IW_GRDH_1SDV_20220714T130449_20220714T130514_044097_054380_677C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/7/14/IW/DV/S1A_IW_GRDH_1SDV_20220714T130449_20220714T130514_044097_054380_677C/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220702T130448_20220702T130513_043922_053E52_rtc",
+      "datetime": "2022-07-02T13:05:01.498909Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/7/2/IW/DV/S1A_IW_GRDH_1SDV_20220702T130448_20220702T130513_043922_053E52_18EB/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/7/2/IW/DV/S1A_IW_GRDH_1SDV_20220702T130448_20220702T130513_043922_053E52_18EB/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220628T005941_20220628T010006_043856_053C4E_rtc",
+      "datetime": "2022-06-28T00:59:53.693629Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/28/IW/DV/S1A_IW_GRDH_1SDV_20220628T005941_20220628T010006_043856_053C4E_1C72/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/28/IW/DV/S1A_IW_GRDH_1SDV_20220628T005941_20220628T010006_043856_053C4E_1C72/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220620T130448_20220620T130513_043747_053918_rtc",
+      "datetime": "2022-06-20T13:05:00.808066Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/20/IW/DV/S1A_IW_GRDH_1SDV_20220620T130448_20220620T130513_043747_053918_9FD0/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/20/IW/DV/S1A_IW_GRDH_1SDV_20220620T130448_20220620T130513_043747_053918_9FD0/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220616T005940_20220616T010005_043681_05370E_rtc",
+      "datetime": "2022-06-16T00:59:52.639022Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/16/IW/DV/S1A_IW_GRDH_1SDV_20220616T005940_20220616T010005_043681_05370E_69F4/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/16/IW/DV/S1A_IW_GRDH_1SDV_20220616T005940_20220616T010005_043681_05370E_69F4/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220608T130447_20220608T130512_043572_0533E4_rtc",
+      "datetime": "2022-06-08T13:05:00.199550Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/8/IW/DV/S1A_IW_GRDH_1SDV_20220608T130447_20220608T130512_043572_0533E4_8095/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/8/IW/DV/S1A_IW_GRDH_1SDV_20220608T130447_20220608T130512_043572_0533E4_8095/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20220604T005939_20220604T010004_043506_0531D2_rtc",
+      "datetime": "2022-06-04T00:59:52.262433Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/4/IW/DV/S1A_IW_GRDH_1SDV_20220604T005939_20220604T010004_043506_0531D2_46CD/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2022/6/4/IW/DV/S1A_IW_GRDH_1SDV_20220604T005939_20220604T010004_043506_0531D2_46CD/measurement/iw-vh.rtc.tiff"
+    }
+  ],
+  "2023_monsoon": [
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230927T005949_20230927T010014_050506_061545_rtc",
+      "datetime": "2023-09-27T01:00:01.528332Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/27/IW/DV/S1A_IW_GRDH_1SDV_20230927T005949_20230927T010014_050506_061545_B741/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/27/IW/DV/S1A_IW_GRDH_1SDV_20230927T005949_20230927T010014_050506_061545_B741/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230919T130458_20230919T130523_050397_061187_rtc",
+      "datetime": "2023-09-19T13:05:10.660282Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/19/IW/DV/S1A_IW_GRDH_1SDV_20230919T130458_20230919T130523_050397_061187_5231/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/19/IW/DV/S1A_IW_GRDH_1SDV_20230919T130458_20230919T130523_050397_061187_5231/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230915T005948_20230915T010013_050331_060F48_rtc",
+      "datetime": "2023-09-15T01:00:01.171199Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/15/IW/DV/S1A_IW_GRDH_1SDV_20230915T005948_20230915T010013_050331_060F48_C4FC/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/15/IW/DV/S1A_IW_GRDH_1SDV_20230915T005948_20230915T010013_050331_060F48_C4FC/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230907T130457_20230907T130522_050222_060B87_rtc",
+      "datetime": "2023-09-07T13:05:10.170843Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/7/IW/DV/S1A_IW_GRDH_1SDV_20230907T130457_20230907T130522_050222_060B87_A372/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/7/IW/DV/S1A_IW_GRDH_1SDV_20230907T130457_20230907T130522_050222_060B87_A372/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230903T005948_20230903T010013_050156_06095B_rtc",
+      "datetime": "2023-09-03T01:00:00.845171Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/3/IW/DV/S1A_IW_GRDH_1SDV_20230903T005948_20230903T010013_050156_06095B_9295/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/9/3/IW/DV/S1A_IW_GRDH_1SDV_20230903T005948_20230903T010013_050156_06095B_9295/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230826T130457_20230826T130522_050047_060597_rtc",
+      "datetime": "2023-08-26T13:05:09.697086Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/26/IW/DV/S1A_IW_GRDH_1SDV_20230826T130457_20230826T130522_050047_060597_DB8F/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/26/IW/DV/S1A_IW_GRDH_1SDV_20230826T130457_20230826T130522_050047_060597_DB8F/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230822T005947_20230822T010012_049981_06035A_rtc",
+      "datetime": "2023-08-22T00:59:59.851267Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/22/IW/DV/S1A_IW_GRDH_1SDV_20230822T005947_20230822T010012_049981_06035A_A4E5/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/22/IW/DV/S1A_IW_GRDH_1SDV_20230822T005947_20230822T010012_049981_06035A_A4E5/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230814T130456_20230814T130521_049872_05FF9B_rtc",
+      "datetime": "2023-08-14T13:05:08.782778Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/14/IW/DV/S1A_IW_GRDH_1SDV_20230814T130456_20230814T130521_049872_05FF9B_87A6/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/14/IW/DV/S1A_IW_GRDH_1SDV_20230814T130456_20230814T130521_049872_05FF9B_87A6/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230810T005945_20230810T010010_049806_05FD60_rtc",
+      "datetime": "2023-08-10T00:59:58.498385Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/10/IW/DV/S1A_IW_GRDH_1SDV_20230810T005945_20230810T010010_049806_05FD60_A1EB/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/10/IW/DV/S1A_IW_GRDH_1SDV_20230810T005945_20230810T010010_049806_05FD60_A1EB/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230802T130455_20230802T130520_049697_05F9E1_rtc",
+      "datetime": "2023-08-02T13:05:07.941451Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/2/IW/DV/S1A_IW_GRDH_1SDV_20230802T130455_20230802T130520_049697_05F9E1_F21E/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/8/2/IW/DV/S1A_IW_GRDH_1SDV_20230802T130455_20230802T130520_049697_05F9E1_F21E/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230729T005946_20230729T010011_049631_05F7D5_rtc",
+      "datetime": "2023-07-29T00:59:58.736483Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/7/29/IW/DV/S1A_IW_GRDH_1SDV_20230729T005946_20230729T010011_049631_05F7D5_1E11/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/7/29/IW/DV/S1A_IW_GRDH_1SDV_20230729T005946_20230729T010011_049631_05F7D5_1E11/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230721T130455_20230721T130520_049522_05F476_rtc",
+      "datetime": "2023-07-21T13:05:07.599685Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/7/21/IW/DV/S1A_IW_GRDH_1SDV_20230721T130455_20230721T130520_049522_05F476_C054/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/7/21/IW/DV/S1A_IW_GRDH_1SDV_20230721T130455_20230721T130520_049522_05F476_C054/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230717T005945_20230717T010010_049456_05F271_rtc",
+      "datetime": "2023-07-17T00:59:58.153205Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/7/17/IW/DV/S1A_IW_GRDH_1SDV_20230717T005945_20230717T010010_049456_05F271_A0BD/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/7/17/IW/DV/S1A_IW_GRDH_1SDV_20230717T005945_20230717T010010_049456_05F271_A0BD/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230709T130454_20230709T130519_049347_05EF22_rtc",
+      "datetime": "2023-07-09T13:05:07.025589Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/7/9/IW/DV/S1A_IW_GRDH_1SDV_20230709T130454_20230709T130519_049347_05EF22_655C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/7/9/IW/DV/S1A_IW_GRDH_1SDV_20230709T130454_20230709T130519_049347_05EF22_655C/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230627T130453_20230627T130518_049172_05E9BE_rtc",
+      "datetime": "2023-06-27T13:05:05.581637Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/27/IW/DV/S1A_IW_GRDH_1SDV_20230627T130453_20230627T130518_049172_05E9BE_0F5E/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/27/IW/DV/S1A_IW_GRDH_1SDV_20230627T130453_20230627T130518_049172_05E9BE_0F5E/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230623T005943_20230623T010008_049106_05E7AB_rtc",
+      "datetime": "2023-06-23T00:59:56.294349Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/23/IW/DV/S1A_IW_GRDH_1SDV_20230623T005943_20230623T010008_049106_05E7AB_8E30/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/23/IW/DV/S1A_IW_GRDH_1SDV_20230623T005943_20230623T010008_049106_05E7AB_8E30/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230615T130452_20230615T130517_048997_05E466_rtc",
+      "datetime": "2023-06-15T13:05:05.431546Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/15/IW/DV/S1A_IW_GRDH_1SDV_20230615T130452_20230615T130517_048997_05E466_156E/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/15/IW/DV/S1A_IW_GRDH_1SDV_20230615T130452_20230615T130517_048997_05E466_156E/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230611T005943_20230611T010008_048931_05E259_rtc",
+      "datetime": "2023-06-11T00:59:55.766143Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/11/IW/DV/S1A_IW_GRDH_1SDV_20230611T005943_20230611T010008_048931_05E259_5458/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/11/IW/DV/S1A_IW_GRDH_1SDV_20230611T005943_20230611T010008_048931_05E259_5458/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20230603T130452_20230603T130517_048822_05DF12_rtc",
+      "datetime": "2023-06-03T13:05:04.739364Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/3/IW/DV/S1A_IW_GRDH_1SDV_20230603T130452_20230603T130517_048822_05DF12_617C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2023/6/3/IW/DV/S1A_IW_GRDH_1SDV_20230603T130452_20230603T130517_048822_05DF12_617C/measurement/iw-vh.rtc.tiff"
+    }
+  ],
+  "2024_monsoon": [
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240925T130454_20240925T130519_055822_06D240_rtc",
+      "datetime": "2024-09-25T13:05:06.559158Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/25/IW/DV/S1A_IW_GRDH_1SDV_20240925T130454_20240925T130519_055822_06D240_BB4B/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/25/IW/DV/S1A_IW_GRDH_1SDV_20240925T130454_20240925T130519_055822_06D240_BB4B/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240921T005944_20240921T010009_055756_06CFA3_rtc",
+      "datetime": "2024-09-21T00:59:57.185035Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/21/IW/DV/S1A_IW_GRDH_1SDV_20240921T005944_20240921T010009_055756_06CFA3_64D9/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/21/IW/DV/S1A_IW_GRDH_1SDV_20240921T005944_20240921T010009_055756_06CFA3_64D9/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240913T130453_20240913T130518_055647_06CB54_rtc",
+      "datetime": "2024-09-13T13:05:06.394881Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/13/IW/DV/S1A_IW_GRDH_1SDV_20240913T130453_20240913T130518_055647_06CB54_C765/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/13/IW/DV/S1A_IW_GRDH_1SDV_20240913T130453_20240913T130518_055647_06CB54_C765/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240909T005944_20240909T010009_055581_06C8C1_rtc",
+      "datetime": "2024-09-09T00:59:56.899414Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/9/IW/DV/S1A_IW_GRDH_1SDV_20240909T005944_20240909T010009_055581_06C8C1_13E5/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/9/IW/DV/S1A_IW_GRDH_1SDV_20240909T005944_20240909T010009_055581_06C8C1_13E5/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240901T130453_20240901T130518_055472_06C467_rtc",
+      "datetime": "2024-09-01T13:05:05.910283Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/1/IW/DV/S1A_IW_GRDH_1SDV_20240901T130453_20240901T130518_055472_06C467_0578/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/9/1/IW/DV/S1A_IW_GRDH_1SDV_20240901T130453_20240901T130518_055472_06C467_0578/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240828T005944_20240828T010009_055406_06C204_rtc",
+      "datetime": "2024-08-28T00:59:56.580948Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/8/28/IW/DV/S1A_IW_GRDH_1SDV_20240828T005944_20240828T010009_055406_06C204_6879/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/8/28/IW/DV/S1A_IW_GRDH_1SDV_20240828T005944_20240828T010009_055406_06C204_6879/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240820T130453_20240820T130518_055297_06BDED_rtc",
+      "datetime": "2024-08-20T13:05:05.745456Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/8/20/IW/DV/S1A_IW_GRDH_1SDV_20240820T130453_20240820T130518_055297_06BDED_E384/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/8/20/IW/DV/S1A_IW_GRDH_1SDV_20240820T130453_20240820T130518_055297_06BDED_E384/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240816T005943_20240816T010008_055231_06BB87_rtc",
+      "datetime": "2024-08-16T00:59:56.192256Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/8/16/IW/DV/S1A_IW_GRDH_1SDV_20240816T005943_20240816T010008_055231_06BB87_A24A/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/8/16/IW/DV/S1A_IW_GRDH_1SDV_20240816T005943_20240816T010008_055231_06BB87_A24A/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240808T130453_20240808T130518_055122_06B78B_rtc",
+      "datetime": "2024-08-08T13:05:05.502866Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/8/8/IW/DV/S1A_IW_GRDH_1SDV_20240808T130453_20240808T130518_055122_06B78B_8DD0/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/8/8/IW/DV/S1A_IW_GRDH_1SDV_20240808T130453_20240808T130518_055122_06B78B_8DD0/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240727T130452_20240727T130517_054947_06B172_rtc",
+      "datetime": "2024-07-27T13:05:05.195023Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/27/IW/DV/S1A_IW_GRDH_1SDV_20240727T130452_20240727T130517_054947_06B172_1706/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/27/IW/DV/S1A_IW_GRDH_1SDV_20240727T130452_20240727T130517_054947_06B172_1706/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240723T005943_20240723T010008_054881_06AF21_rtc",
+      "datetime": "2024-07-23T00:59:56.374581Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/23/IW/DV/S1A_IW_GRDH_1SDV_20240723T005943_20240723T010008_054881_06AF21_7373/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/23/IW/DV/S1A_IW_GRDH_1SDV_20240723T005943_20240723T010008_054881_06AF21_7373/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240715T130453_20240715T130518_054772_06AB5C_rtc",
+      "datetime": "2024-07-15T13:05:05.890011Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/15/IW/DV/S1A_IW_GRDH_1SDV_20240715T130453_20240715T130518_054772_06AB5C_B817/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/15/IW/DV/S1A_IW_GRDH_1SDV_20240715T130453_20240715T130518_054772_06AB5C_B817/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240711T005944_20240711T010009_054706_06A90D_rtc",
+      "datetime": "2024-07-11T00:59:56.747493Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/11/IW/DV/S1A_IW_GRDH_1SDV_20240711T005944_20240711T010009_054706_06A90D_D23A/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/11/IW/DV/S1A_IW_GRDH_1SDV_20240711T005944_20240711T010009_054706_06A90D_D23A/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240703T130453_20240703T130518_054597_06A54E_rtc",
+      "datetime": "2024-07-03T13:05:06.078489Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/3/IW/DV/S1A_IW_GRDH_1SDV_20240703T130453_20240703T130518_054597_06A54E_04D2/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/7/3/IW/DV/S1A_IW_GRDH_1SDV_20240703T130453_20240703T130518_054597_06A54E_04D2/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240629T005944_20240629T010009_054531_06A2F3_rtc",
+      "datetime": "2024-06-29T00:59:57.063193Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/29/IW/DV/S1A_IW_GRDH_1SDV_20240629T005944_20240629T010009_054531_06A2F3_EA4C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/29/IW/DV/S1A_IW_GRDH_1SDV_20240629T005944_20240629T010009_054531_06A2F3_EA4C/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240621T130454_20240621T130519_054422_069F35_rtc",
+      "datetime": "2024-06-21T13:05:06.886405Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/21/IW/DV/S1A_IW_GRDH_1SDV_20240621T130454_20240621T130519_054422_069F35_85E1/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/21/IW/DV/S1A_IW_GRDH_1SDV_20240621T130454_20240621T130519_054422_069F35_85E1/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240617T005945_20240617T010010_054356_069CE2_rtc",
+      "datetime": "2024-06-17T00:59:57.875988Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/17/IW/DV/S1A_IW_GRDH_1SDV_20240617T005945_20240617T010010_054356_069CE2_E10C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/17/IW/DV/S1A_IW_GRDH_1SDV_20240617T005945_20240617T010010_054356_069CE2_E10C/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240609T130454_20240609T130519_054247_06992A_rtc",
+      "datetime": "2024-06-09T13:05:07.361913Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/9/IW/DV/S1A_IW_GRDH_1SDV_20240609T130454_20240609T130519_054247_06992A_67CF/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/9/IW/DV/S1A_IW_GRDH_1SDV_20240609T130454_20240609T130519_054247_06992A_67CF/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20240605T005945_20240605T010010_054181_0696D5_rtc",
+      "datetime": "2024-06-05T00:59:58.155820Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/5/IW/DV/S1A_IW_GRDH_1SDV_20240605T005945_20240605T010010_054181_0696D5_EB1E/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2024/6/5/IW/DV/S1A_IW_GRDH_1SDV_20240605T005945_20240605T010010_054181_0696D5_EB1E/measurement/iw-vh.rtc.tiff"
+    }
+  ],
+  "2025_monsoon": [
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250928T005935_20250928T010000_061181_07A0EC_rtc",
+      "datetime": "2025-09-28T00:59:48.096197Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/28/IW/DV/S1A_IW_GRDH_1SDV_20250928T005935_20250928T010000_061181_07A0EC_5B26/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/28/IW/DV/S1A_IW_GRDH_1SDV_20250928T005935_20250928T010000_061181_07A0EC_5B26/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250920T130444_20250920T130509_061072_079C87_rtc",
+      "datetime": "2025-09-20T13:04:57.471122Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/20/IW/DV/S1A_IW_GRDH_1SDV_20250920T130444_20250920T130509_061072_079C87_9F3F/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/20/IW/DV/S1A_IW_GRDH_1SDV_20250920T130444_20250920T130509_061072_079C87_9F3F/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250916T005935_20250916T010000_061006_0799E4_rtc",
+      "datetime": "2025-09-16T00:59:47.929195Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/16/IW/DV/S1A_IW_GRDH_1SDV_20250916T005935_20250916T010000_061006_0799E4_95FE/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/16/IW/DV/S1A_IW_GRDH_1SDV_20250916T005935_20250916T010000_061006_0799E4_95FE/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250908T130444_20250908T130509_060897_079585_rtc",
+      "datetime": "2025-09-08T13:04:57.195309Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/8/IW/DV/S1A_IW_GRDH_1SDV_20250908T130444_20250908T130509_060897_079585_FFB2/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/8/IW/DV/S1A_IW_GRDH_1SDV_20250908T130444_20250908T130509_060897_079585_FFB2/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250904T005935_20250904T010000_060831_0792E0_rtc",
+      "datetime": "2025-09-04T00:59:47.587527Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/4/IW/DV/S1A_IW_GRDH_1SDV_20250904T005935_20250904T010000_060831_0792E0_ECF8/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/9/4/IW/DV/S1A_IW_GRDH_1SDV_20250904T005935_20250904T010000_060831_0792E0_ECF8/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250827T130444_20250827T130509_060722_078E90_rtc",
+      "datetime": "2025-08-27T13:04:56.838632Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/27/IW/DV/S1A_IW_GRDH_1SDV_20250827T130444_20250827T130509_060722_078E90_2A54/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/27/IW/DV/S1A_IW_GRDH_1SDV_20250827T130444_20250827T130509_060722_078E90_2A54/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250823T005935_20250823T010000_060656_078BF5_rtc",
+      "datetime": "2025-08-23T00:59:47.539754Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/23/IW/DV/S1A_IW_GRDH_1SDV_20250823T005935_20250823T010000_060656_078BF5_BF00/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/23/IW/DV/S1A_IW_GRDH_1SDV_20250823T005935_20250823T010000_060656_078BF5_BF00/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250815T130444_20250815T130509_060547_0787AB_rtc",
+      "datetime": "2025-08-15T13:04:56.650156Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/15/IW/DV/S1A_IW_GRDH_1SDV_20250815T130444_20250815T130509_060547_0787AB_5282/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/15/IW/DV/S1A_IW_GRDH_1SDV_20250815T130444_20250815T130509_060547_0787AB_5282/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1C_IW_GRDH_1SDV_20250805T005833_20250805T005909_003530_rtc",
+      "datetime": "2025-08-05T00:58:51.397502Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/5/IW/DV/S1C_IW_GRDH_1SDV_20250805T005833_20250805T005909_003530_007136_B201/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/5/IW/DV/S1C_IW_GRDH_1SDV_20250805T005833_20250805T005909_003530_007136_B201/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250803T130444_20250803T130509_060372_rtc",
+      "datetime": "2025-08-03T13:04:56.723046Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/3/IW/DV/S1A_IW_GRDH_1SDV_20250803T130444_20250803T130509_060372_0780F8_B477/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/3/IW/DV/S1A_IW_GRDH_1SDV_20250803T130444_20250803T130509_060372_0780F8_B477/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250730T005934_20250730T005959_060306_rtc",
+      "datetime": "2025-07-30T00:59:47.481410Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/30/IW/DV/S1A_IW_GRDH_1SDV_20250730T005934_20250730T005959_060306_077EA7_B8F0/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/30/IW/DV/S1A_IW_GRDH_1SDV_20250730T005934_20250730T005959_060306_077EA7_B8F0/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250722T130444_20250722T130509_060197_rtc",
+      "datetime": "2025-07-22T13:04:56.857679Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/22/IW/DV/S1A_IW_GRDH_1SDV_20250722T130444_20250722T130509_060197_077AF1_D70F/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/22/IW/DV/S1A_IW_GRDH_1SDV_20250722T130444_20250722T130509_060197_077AF1_D70F/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250718T005935_20250718T010000_060131_rtc",
+      "datetime": "2025-07-18T00:59:47.754897Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/18/IW/DV/S1A_IW_GRDH_1SDV_20250718T005935_20250718T010000_060131_0778A7_946C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/18/IW/DV/S1A_IW_GRDH_1SDV_20250718T005935_20250718T010000_060131_0778A7_946C/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250710T130444_20250710T130509_060022_rtc",
+      "datetime": "2025-07-10T13:04:57.471893Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/10/IW/DV/S1A_IW_GRDH_1SDV_20250710T130444_20250710T130509_060022_0774EE_079D/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/10/IW/DV/S1A_IW_GRDH_1SDV_20250710T130444_20250710T130509_060022_0774EE_079D/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250706T005935_20250706T010000_059956_rtc",
+      "datetime": "2025-07-06T00:59:48.362182Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/6/IW/DV/S1A_IW_GRDH_1SDV_20250706T005935_20250706T010000_059956_0772A1_5949/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/7/6/IW/DV/S1A_IW_GRDH_1SDV_20250706T005935_20250706T010000_059956_0772A1_5949/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250628T130445_20250628T130510_059847_076EE3_rtc",
+      "datetime": "2025-06-28T13:04:58.153559Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/28/IW/DV/S1A_IW_GRDH_1SDV_20250628T130445_20250628T130510_059847_076EE3_C2C6/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/28/IW/DV/S1A_IW_GRDH_1SDV_20250628T130445_20250628T130510_059847_076EE3_C2C6/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250624T005936_20250624T010001_059781_076C8D_rtc",
+      "datetime": "2025-06-24T00:59:49.069194Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/24/IW/DV/S1A_IW_GRDH_1SDV_20250624T005936_20250624T010001_059781_076C8D_5B32/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/24/IW/DV/S1A_IW_GRDH_1SDV_20250624T005936_20250624T010001_059781_076C8D_5B32/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250616T130446_20250616T130511_059672_0768D1_rtc",
+      "datetime": "2025-06-16T13:04:58.632097Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/16/IW/DV/S1A_IW_GRDH_1SDV_20250616T130446_20250616T130511_059672_0768D1_0243/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/16/IW/DV/S1A_IW_GRDH_1SDV_20250616T130446_20250616T130511_059672_0768D1_0243/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250612T005937_20250612T010002_059606_rtc",
+      "datetime": "2025-06-12T00:59:49.669444Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/12/IW/DV/S1A_IW_GRDH_1SDV_20250612T005937_20250612T010002_059606_076680_811E/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/12/IW/DV/S1A_IW_GRDH_1SDV_20250612T005937_20250612T010002_059606_076680_811E/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20250604T130446_20250604T130511_059497_0762D9_rtc",
+      "datetime": "2025-06-04T13:04:59.306547Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/4/IW/DV/S1A_IW_GRDH_1SDV_20250604T130446_20250604T130511_059497_0762D9_7AB3/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/6/4/IW/DV/S1A_IW_GRDH_1SDV_20250604T130446_20250604T130511_059497_0762D9_7AB3/measurement/iw-vh.rtc.tiff"
+    }
+  ],
+  "2026_monsoon": [
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260930T005853_20260930T005918_004800_00901B_rtc",
+      "datetime": "2026-09-30T00:59:05.845128Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/30/IW/DV/S1D_IW_GRDH_1SDV_20260930T005853_20260930T005918_004800_00901B_E273/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/30/IW/DV/S1D_IW_GRDH_1SDV_20260930T005853_20260930T005918_004800_00901B_E273/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260922T130340_20260922T130405_004691_008C44_rtc",
+      "datetime": "2026-09-22T13:03:52.654378Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/22/IW/DV/S1D_IW_GRDH_1SDV_20260922T130340_20260922T130405_004691_008C44_4AB9/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/22/IW/DV/S1D_IW_GRDH_1SDV_20260922T130340_20260922T130405_004691_008C44_4AB9/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260918T005853_20260918T005918_004625_008A01_rtc",
+      "datetime": "2026-09-18T00:59:05.820404Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/18/IW/DV/S1D_IW_GRDH_1SDV_20260918T005853_20260918T005918_004625_008A01_CDC1/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/18/IW/DV/S1D_IW_GRDH_1SDV_20260918T005853_20260918T005918_004625_008A01_CDC1/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260910T130339_20260910T130404_004516_008644_rtc",
+      "datetime": "2026-09-10T13:03:52.336036Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/10/IW/DV/S1D_IW_GRDH_1SDV_20260910T130339_20260910T130404_004516_008644_0E09/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/10/IW/DV/S1D_IW_GRDH_1SDV_20260910T130339_20260910T130404_004516_008644_0E09/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260906T005852_20260906T005917_004450_0083F6_rtc",
+      "datetime": "2026-09-06T00:59:05.366324Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/6/IW/DV/S1D_IW_GRDH_1SDV_20260906T005852_20260906T005917_004450_0083F6_EE87/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/9/6/IW/DV/S1D_IW_GRDH_1SDV_20260906T005852_20260906T005917_004450_0083F6_EE87/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260829T130339_20260829T130404_004341_008028_rtc",
+      "datetime": "2026-08-29T13:03:52.044535Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/29/IW/DV/S1D_IW_GRDH_1SDV_20260829T130339_20260829T130404_004341_008028_AB57/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/29/IW/DV/S1D_IW_GRDH_1SDV_20260829T130339_20260829T130404_004341_008028_AB57/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260825T005852_20260825T005917_004275_007DDD_rtc",
+      "datetime": "2026-08-25T00:59:05.103870Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/25/IW/DV/S1D_IW_GRDH_1SDV_20260825T005852_20260825T005917_004275_007DDD_6746/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/25/IW/DV/S1D_IW_GRDH_1SDV_20260825T005852_20260825T005917_004275_007DDD_6746/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260817T130338_20260817T130403_004166_0079FD_rtc",
+      "datetime": "2026-08-17T13:03:51.318467Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/17/IW/DV/S1D_IW_GRDH_1SDV_20260817T130338_20260817T130403_004166_0079FD_DB4A/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/17/IW/DV/S1D_IW_GRDH_1SDV_20260817T130338_20260817T130403_004166_0079FD_DB4A/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260813T005852_20260813T005917_004100_0077BF_rtc",
+      "datetime": "2026-08-13T00:59:04.535750Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/13/IW/DV/S1D_IW_GRDH_1SDV_20260813T005852_20260813T005917_004100_0077BF_099C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/13/IW/DV/S1D_IW_GRDH_1SDV_20260813T005852_20260813T005917_004100_0077BF_099C/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260805T130338_20260805T130403_003991_0073FA_rtc",
+      "datetime": "2026-08-05T13:03:50.784050Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/5/IW/DV/S1D_IW_GRDH_1SDV_20260805T130338_20260805T130403_003991_0073FA_49AB/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/5/IW/DV/S1D_IW_GRDH_1SDV_20260805T130338_20260805T130403_003991_0073FA_49AB/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260801T005851_20260801T005916_003925_0071AB_rtc",
+      "datetime": "2026-08-01T00:59:03.977081Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/1/IW/DV/S1D_IW_GRDH_1SDV_20260801T005851_20260801T005916_003925_0071AB_4AB6/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/8/1/IW/DV/S1D_IW_GRDH_1SDV_20260801T005851_20260801T005916_003925_0071AB_4AB6/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260724T130337_20260724T130402_003816_006DE0_rtc",
+      "datetime": "2026-07-24T13:03:50.445677Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/7/24/IW/DV/S1D_IW_GRDH_1SDV_20260724T130337_20260724T130402_003816_006DE0_2800/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/7/24/IW/DV/S1D_IW_GRDH_1SDV_20260724T130337_20260724T130402_003816_006DE0_2800/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260720T005850_20260720T005915_003750_006BA0_rtc",
+      "datetime": "2026-07-20T00:59:03.430430Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/7/20/IW/DV/S1D_IW_GRDH_1SDV_20260720T005850_20260720T005915_003750_006BA0_DA6A/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/7/20/IW/DV/S1D_IW_GRDH_1SDV_20260720T005850_20260720T005915_003750_006BA0_DA6A/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260712T130337_20260712T130402_003641_0067E1_rtc",
+      "datetime": "2026-07-12T13:03:49.529394Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/7/12/IW/DV/S1D_IW_GRDH_1SDV_20260712T130337_20260712T130402_003641_0067E1_5462/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/7/12/IW/DV/S1D_IW_GRDH_1SDV_20260712T130337_20260712T130402_003641_0067E1_5462/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260708T005853_20260708T005918_003575_0065A4_rtc",
+      "datetime": "2026-07-08T00:59:05.559113Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/7/8/IW/DV/S1D_IW_GRDH_1SDV_20260708T005853_20260708T005918_003575_0065A4_7EE2/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/7/8/IW/DV/S1D_IW_GRDH_1SDV_20260708T005853_20260708T005918_003575_0065A4_7EE2/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260630T130336_20260630T130401_003466_0061F5_rtc",
+      "datetime": "2026-06-30T13:03:48.768146Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/30/IW/DV/S1D_IW_GRDH_1SDV_20260630T130336_20260630T130401_003466_0061F5_370D/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/30/IW/DV/S1D_IW_GRDH_1SDV_20260630T130336_20260630T130401_003466_0061F5_370D/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1D_IW_GRDH_1SDV_20260626T005849_20260626T005914_003400_005FC3_rtc",
+      "datetime": "2026-06-26T00:59:01.917713Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/26/IW/DV/S1D_IW_GRDH_1SDV_20260626T005849_20260626T005914_003400_005FC3_5A4A/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/26/IW/DV/S1D_IW_GRDH_1SDV_20260626T005849_20260626T005914_003400_005FC3_5A4A/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20260623T130416_20260623T130441_065097_083493_rtc",
+      "datetime": "2026-06-23T13:04:28.970912Z",
+      "orbit_state": "ascending",
+      "relative_orbit": 100,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/23/IW/DV/S1A_IW_GRDH_1SDV_20260623T130416_20260623T130441_065097_083493_1602/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/23/IW/DV/S1A_IW_GRDH_1SDV_20260623T130416_20260623T130441_065097_083493_1602/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20260619T005930_20260619T005955_065031_083245_rtc",
+      "datetime": "2026-06-19T00:59:42.668381Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/19/IW/DV/S1A_IW_GRDH_1SDV_20260619T005930_20260619T005955_065031_083245_C08A/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/19/IW/DV/S1A_IW_GRDH_1SDV_20260619T005930_20260619T005955_065031_083245_C08A/measurement/iw-vh.rtc.tiff"
+    },
+    {
+      "id": "S1A_IW_GRDH_1SDV_20260607T005930_20260607T005955_064856_082C23_rtc",
+      "datetime": "2026-06-07T00:59:43.273497Z",
+      "orbit_state": "descending",
+      "relative_orbit": 34,
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/7/IW/DV/S1A_IW_GRDH_1SDV_20260607T005930_20260607T005955_064856_082C23_532C/measurement/iw-vv.rtc.tiff",
+      "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2026/6/7/IW/DV/S1A_IW_GRDH_1SDV_20260607T005930_20260607T005955_064856_082C23_532C/measurement/iw-vh.rtc.tiff"
+    }
+  ]
+}

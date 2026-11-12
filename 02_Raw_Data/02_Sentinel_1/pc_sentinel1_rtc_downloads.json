@@ -1,0 +1,50 @@
+[
+  {
+    "role": "post_event_asc100",
+    "date": "2025-08-27",
+    "pol": "vv",
+    "file": "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\02_Sentinel_1\\S1RTC_20250827_post_event_asc100\\S1RTC_20250827_vv_AOI.tif"
+  },
+  {
+    "role": "post_event_asc100",
+    "date": "2025-08-27",
+    "pol": "vh",
+    "file": "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\02_Sentinel_1\\S1RTC_20250827_post_event_asc100\\S1RTC_20250827_vh_AOI.tif"
+  },
+  {
+    "role": "post_event_desc34",
+    "date": "2025-08-23",
+    "pol": "vv",
+    "file": "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\02_Sentinel_1\\S1RTC_20250823_post_event_desc34\\S1RTC_20250823_vv_AOI.tif"
+  },
+  {
+    "role": "post_event_desc34",
+    "date": "2025-08-23",
+    "pol": "vh",
+    "file": "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\02_Sentinel_1\\S1RTC_20250823_post_event_desc34\\S1RTC_20250823_vh_AOI.tif"
+  },
+  {
+    "role": "pre_event_asc100",
+    "date": "2025-08-15",
+    "pol": "vv",
+    "file": "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\02_Sentinel_1\\S1RTC_20250815_pre_event_asc100\\S1RTC_20250815_vv_AOI.tif"
+  },
+  {
+    "role": "pre_event_asc100",
+    "date": "2025-08-15",
+    "pol": "vh",
+    "file": "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\02_Sentinel_1\\S1RTC_20250815_pre_event_asc100\\S1RTC_20250815_vh_AOI.tif"
+  },
+  {
+    "role": "pre_event_desc34",
+    "date": "2025-08-05",
+    "pol": "vv",
+    "file": "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\02_Sentinel_1\\S1RTC_20250805_pre_event_desc34\\S1RTC_20250805_vv_AOI.tif"
+  },
+  {
+    "role": "pre_event_desc34",
+    "date": "2025-08-05",
+    "pol": "vh",
+    "file": "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\02_Sentinel_1\\S1RTC_20250805_pre_event_desc34\\S1RTC_20250805_vh_AOI.tif"
+  }
+]

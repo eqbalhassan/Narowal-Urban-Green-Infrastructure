@@ -1,0 +1,20 @@
+{
+  "mc_area_km2": 24.905,
+  "builtup_footprint_cluster_km2": 17.837,
+  "ms_buildings_count_mc": 13087,
+  "ms_buildings_roof_area_km2": 3.5913,
+  "lulc_builtup_km2": 7.5824,
+  "lulc_vegetation_km2": 4.581,
+  "lulc_agriculture_km2": 10.4611,
+  "lulc_bare_soil_km2": 1.1722,
+  "formal_park_count": 1,
+  "formal_park_area_ha": 3.19,
+  "all_mapped_leisure_polygons_count": 4,
+  "all_mapped_leisure_area_ha": 24.35,
+  "walkable_street_length_mc_km": 184.87,
+  "ghsl_2025_pop_mc": 302379,
+  "urban_unit_2025_pop_projection": 132194,
+  "formal_park_m2_per_capita_uu2025": 0.24,
+  "formal_park_m2_per_capita_ghsl2025": 0.11,
+  "who_min_standard_m2_per_capita": 9.0
+}

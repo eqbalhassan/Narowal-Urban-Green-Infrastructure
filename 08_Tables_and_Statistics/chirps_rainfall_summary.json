@@ -1,0 +1,62 @@
+{
+  "grid_cell_lat": 32.125,
+  "grid_cell_lon": 74.875,
+  "spatial_resolution_deg": 0.05,
+  "mean_annual_1981_2024_mm": 779.8,
+  "mean_jas_monsoon_mm": 542.1,
+  "wettest_years": [
+    {
+      "year": 1990,
+      "annual_mm": 1102.0403118,
+      "jas_monsoon_mm": 824.56037,
+      "monsoon_share_pct": 74.8
+    },
+    {
+      "year": 2013,
+      "annual_mm": 1091.814176,
+      "jas_monsoon_mm": 788.2744700000001,
+      "monsoon_share_pct": 72.2
+    },
+    {
+      "year": 2020,
+      "annual_mm": 1050.2915111,
+      "jas_monsoon_mm": 712.006774,
+      "monsoon_share_pct": 67.8
+    },
+    {
+      "year": 2021,
+      "annual_mm": 1049.035785,
+      "jas_monsoon_mm": 837.09351,
+      "monsoon_share_pct": 79.8
+    },
+    {
+      "year": 2019,
+      "annual_mm": 1018.287367,
+      "jas_monsoon_mm": 627.3914599999999,
+      "monsoon_share_pct": 61.6
+    }
+  ],
+  "wettest_months_since_2014": [
+    {
+      "time": "2020-08",
+      "precip": 488.07782
+    },
+    {
+      "time": "2021-07",
+      "precip": 447.2912
+    },
+    {
+      "time": "2023-07",
+      "precip": 398.8056
+    },
+    {
+      "time": "2022-07",
+      "precip": 397.5086
+    },
+    {
+      "time": "2016-08",
+      "precip": 379.3251
+    }
+  ],
+  "limitation": "0.05 deg (~5.5 km) grid; cannot resolve street-to-street rainfall differences."
+}

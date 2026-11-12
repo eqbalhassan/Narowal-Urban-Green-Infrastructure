@@ -1,0 +1,86 @@
+{
+  "overall_accuracy": 0.9117,
+  "kappa": 0.888,
+  "confusion_matrix_labels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "confusion_matrix": [
+    [
+      681,
+      0,
+      0,
+      69,
+      0
+    ],
+    [
+      0,
+      744,
+      6,
+      0,
+      0
+    ],
+    [
+      0,
+      66,
+      684,
+      0,
+      0
+    ],
+    [
+      155,
+      0,
+      0,
+      595,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      352
+    ]
+  ],
+  "mc_boundary_lulc_area": {
+    "Built-up": {
+      "pixels": 75824,
+      "area_km2": 7.5824,
+      "area_ha": 758.24,
+      "pct": 30.44
+    },
+    "Vegetation": {
+      "pixels": 45810,
+      "area_km2": 4.581,
+      "area_ha": 458.1,
+      "pct": 18.39
+    },
+    "Agricultural land": {
+      "pixels": 104611,
+      "area_km2": 10.4611,
+      "area_ha": 1046.11,
+      "pct": 42.0
+    },
+    "Bare soil": {
+      "pixels": 11722,
+      "area_km2": 1.1722,
+      "area_ha": 117.22,
+      "pct": 4.71
+    },
+    "Water": {
+      "pixels": 59,
+      "area_km2": 0.0059,
+      "area_ha": 0.59,
+      "pct": 0.02
+    },
+    "Other / Uncertain": {
+      "pixels": 11046,
+      "area_km2": 1.1046,
+      "area_ha": 110.46,
+      "pct": 4.43
+    }
+  }
+}

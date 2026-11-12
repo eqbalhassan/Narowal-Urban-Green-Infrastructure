@@ -1,0 +1,13 @@
+{
+  "id": "S2A_43SDR_20180528_1_L2A",
+  "datetime": "2018-05-28T05:50:12.427000Z",
+  "cloud_cover": 0.001841,
+  "mgrs_tile": "MGRS-43SDR",
+  "platform": "sentinel-2a",
+  "red_href": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/43/S/DR/2018/5/S2A_43SDR_20180528_1_L2A/B04.tif",
+  "green_href": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/43/S/DR/2018/5/S2A_43SDR_20180528_1_L2A/B03.tif",
+  "blue_href": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/43/S/DR/2018/5/S2A_43SDR_20180528_1_L2A/B02.tif",
+  "nir_href": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/43/S/DR/2018/5/S2A_43SDR_20180528_1_L2A/B08.tif",
+  "swir16_href": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/43/S/DR/2018/5/S2A_43SDR_20180528_1_L2A/B11.tif",
+  "scl_href": "https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/43/S/DR/2018/5/S2A_43SDR_20180528_1_L2A/SCL.tif"
+}

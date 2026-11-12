@@ -1,0 +1,37 @@
+# Git Ignore for Narowal Urban Green Infrastructure Project
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+.env
+.venv/
+env/
+venv/
+
+# Operating System & Editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Temporary & Working Files
+*.tmp
+_tmp*
+*.bak
+*.log
+
+# Esri ArcGIS lock files
+*.lock
+*.sr.lock
+*.rd.lock
+*.gdb/*.lock
+
+# Redundant raw global tiles exceeding GitHub 50MB warning limit
+# (Note: Clipped Narowal AOI rasters are committed in 03_Processed_Data/01_Base_Mapping/)
+# Full raw sources can be re-downloaded via 01_Project_Documentation/Narowal_Data_Acquisition_Register.xlsx
+02_Raw_Data/06_Population/GHS_POP_*_GLOBE_*.tif
+02_Raw_Data/06_Population/GHS_POP_*_GLOBE_*.zip
+*.zip

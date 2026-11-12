@@ -1,0 +1,6 @@
+category,total_street_km,accessible_street_km,inaccessible_street_km,pct_street_accessible,pct_street_inaccessible,total_pop_ghsl2025,pop_within_10min,pop_outside_10min,pct_pop_accessible,total_buildings_mc,buildings_within_10min,buildings_outside_10min,pct_buildings_accessible
+All_Mapped_Parks_And_Sports,184.87,37.76,147.11,20.43,79.57,302379,19340,283039,6.4,13087,1430,11657,10.93
+Formal_Public_Parks_Only,184.87,20.17,164.7,10.91,89.09,302379,17170,285208,5.68,13087,1154,11933,8.82
+Parks_10Ac_Plus_Incl_SportsComplex,184.87,17.59,167.28,9.51,90.49,302379,2169,300210,0.72,13087,276,12811,2.11
+Formal_Parks_10Ac_Plus_None,184.87,0.0,184.87,0.0,100.0,302379,0,302379,0.0,13087,0,13087,0.0
+Small_Neighbourhood_Parks_Under10Ac,184.87,34.5,150.38,18.66,81.34,302379,18726,283653,6.19,13087,1372,11715,10.48

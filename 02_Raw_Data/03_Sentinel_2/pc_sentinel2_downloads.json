@@ -1,0 +1,58 @@
+[
+  {
+    "label": "2025_dry",
+    "id": "S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822",
+    "date": "2025-05-16",
+    "cloud": 0.000358,
+    "files": [
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_dry_2025-05-16_S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822\\S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822_blue_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_dry_2025-05-16_S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822\\S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822_green_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_dry_2025-05-16_S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822\\S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822_red_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_dry_2025-05-16_S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822\\S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822_nir_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_dry_2025-05-16_S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822\\S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822_swir16_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_dry_2025-05-16_S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822\\S2B_MSIL2A_20250516T053639_R005_T43SDR_20250516T074822_scl_AOI.tif"
+    ]
+  },
+  {
+    "label": "2025_monsoon",
+    "id": "S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855",
+    "date": "2025-09-23",
+    "cloud": 0.003537,
+    "files": [
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_monsoon_2025-09-23_S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855\\S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855_blue_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_monsoon_2025-09-23_S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855\\S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855_green_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_monsoon_2025-09-23_S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855\\S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855_red_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_monsoon_2025-09-23_S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855\\S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855_nir_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_monsoon_2025-09-23_S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855\\S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855_swir16_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2025_monsoon_2025-09-23_S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855\\S2B_MSIL2A_20250923T053639_R005_T43SDR_20250923T080855_scl_AOI.tif"
+    ]
+  },
+  {
+    "label": "2022_monsoon",
+    "id": "S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107",
+    "date": "2022-08-10",
+    "cloud": 0.193264,
+    "files": [
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2022_monsoon_2022-08-10_S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107\\S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107_blue_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2022_monsoon_2022-08-10_S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107\\S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107_green_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2022_monsoon_2022-08-10_S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107\\S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107_red_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2022_monsoon_2022-08-10_S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107\\S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107_nir_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2022_monsoon_2022-08-10_S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107\\S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107_swir16_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2022_monsoon_2022-08-10_S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107\\S2B_MSIL2A_20220810T053649_R005_T43SDR_20240718T053107_scl_AOI.tif"
+    ]
+  },
+  {
+    "label": "2026_recent",
+    "id": "S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239",
+    "date": "2026-10-28",
+    "cloud": 3e-06,
+    "files": [
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2026_recent_2026-10-28_S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239\\S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239_blue_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2026_recent_2026-10-28_S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239\\S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239_green_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2026_recent_2026-10-28_S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239\\S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239_red_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2026_recent_2026-10-28_S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239\\S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239_nir_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2026_recent_2026-10-28_S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239\\S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239_swir16_AOI.tif",
+      "C:\\Users\\LENOVO\\.gemini\\antigravity\\scratch\\Narowal_Urban_Green_Infrastructure\\02_Raw_Data\\03_Sentinel_2\\PC_2026_recent_2026-10-28_S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239\\S2B_MSIL2A_20261028T053929_R005_T43SDR_20261028T092239_scl_AOI.tif"
+    ]
+  }
+]

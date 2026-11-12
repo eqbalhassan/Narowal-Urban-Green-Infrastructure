@@ -1,0 +1,5 @@
+{
+  "sample_name": "S1A_IW_GRDH_1SDV_20250604T130446_20250604T130511_059497_0762D9_A140.SAFE",
+  "url": "https://zipper.dataspace.copernicus.eu/odata/v1/Products(951ab4cb-1c9e-4ed7-bc3e-a625f9cc9319)/$value",
+  "http_status": 401
+}

@@ -1,0 +1,13 @@
+{
+  "id": "S1A_IW_GRDH_1SDV_20250823T005935_20250823T010000_060656_078BF5_rtc",
+  "datetime": "2025-08-23T00:59:47.539754Z",
+  "orbit_state": "descending",
+  "relative_orbit": 34,
+  "instrument_mode": "IW",
+  "polarizations": [
+    "VV",
+    "VH"
+  ],
+  "vv_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/23/IW/DV/S1A_IW_GRDH_1SDV_20250823T005935_20250823T010000_060656_078BF5_BF00/measurement/iw-vv.rtc.tiff",
+  "vh_href": "https://sentinel1euwestrtc.blob.core.windows.net/sentinel1-grd-rtc/GRD/2025/8/23/IW/DV/S1A_IW_GRDH_1SDV_20250823T005935_20250823T010000_060656_078BF5_BF00/measurement/iw-vh.rtc.tiff"
+}
